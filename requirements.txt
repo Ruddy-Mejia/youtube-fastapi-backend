@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic[email]
+pymysql
+cryptography
+python-dotenv
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
